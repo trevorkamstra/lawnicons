@@ -24,11 +24,11 @@
      inkscape:pagecheckerboard="true"
      showgrid="true"
      inkscape:zoom="17.354167"
-     inkscape:cx="-11.294117"
+     inkscape:cx="-16.307323"
      inkscape:cy="17.056422"
      inkscape:window-width="3072"
      inkscape:window-height="1694"
-     inkscape:window-x="-11"
+     inkscape:window-x="1499"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg10"
@@ -40,7 +40,8 @@
        empspacing="1" />
   </sodipodi:namedview>
   <g
-     id="g8002">
+     id="g8002"
+     transform="matrix(1.2,0,0,1.2,-2.4,-2.4)">
     <path
        d="M 16.86,16.1666 C 18.7202,14.718 19.9167,12.4571 19.9167,9.91671 19.9167,5.54443 16.3723,2 12.00001,2 7.62773,2 4.0833,5.54443 4.0833,9.91671 c 0,2.54039 1.19654,4.80129 3.05677,6.24989 z"
        fill="#C4C4C4"

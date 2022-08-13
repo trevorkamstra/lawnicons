@@ -7,7 +7,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="repainter.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,20 +24,23 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="12.825085"
-     inkscape:cx="-3.6257071"
-     inkscape:cy="17.777661"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="-10.448274"
+     inkscape:cy="17.77766"
+     inkscape:window-width="3072"
+     inkscape:window-height="1694"
+     inkscape:window-x="1499"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
      fit-margin-top="2"
      fit-margin-left="2"
      fit-margin-right="2"
-     fit-margin-bottom="2" />
+     fit-margin-bottom="2"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <g
-     id="g306">
+     id="g306"
+     transform="matrix(1.2,0,0,1.2,-2.3999997,-2.3999999)">
     <path
        d="m 12.499782,1.9999998 v 3.2515394 c 0,0.4142197 0.3358,0.7500005 0.750001,0.7500005 0.414197,0 0.749998,-0.3357808 0.749998,-0.7500005 V 1.9999998 h 1 V 6.251119 c 0,0.4142198 0.3358,0.7500004 0.749998,0.7500004 0.414202,0 0.750001,-0.3357806 0.750001,-0.7500004 V 1.9999998 h 1.7502 c 0.414301,0 0.749998,0.3357899 0.749998,0.75 V 10.999999 H 5.0000215 V 2.7499998 c 0,-0.4142101 0.33579,-0.75 0.7499997,-0.75 z"
        fill="#000000"

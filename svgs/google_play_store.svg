@@ -25,21 +25,32 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
      inkscape:zoom="39.333333"
-     inkscape:cx="10.474576"
+     inkscape:cx="8.2627119"
      inkscape:cy="12.101695"
      inkscape:window-width="3072"
      inkscape:window-height="1694"
-     inkscape:window-x="-11"
+     inkscape:window-x="1499"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg10">
+     inkscape:current-layer="svg10"
+     showguides="true">
     <inkscape:grid
        type="xygrid"
        id="grid1041" />
+    <sodipodi:guide
+       position="11.923729,21.686441"
+       orientation="1,0"
+       id="guide427"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-5.2372882,12.025424"
+       orientation="0,-1"
+       id="guide429"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <g
      id="g1039"
-     transform="matrix(1,0,0,1.0018606,-1.00244,-0.00375567)">
+     transform="matrix(1.2,0,0,1.2022327,-3.102928,-2.4013508)">
     <path
        d="M 16.1116,7.27313 7.52424,2.3255 C 7.2274,2.15617 6.89688,2.05402 6.55608,2.02627 6.21528,1.99852 5.87253,2.04585 5.5521,2.16491 5.23166,2.28396 4.94138,2.47184 4.70181,2.71523 4.66813,2.74945 4.63556,2.78465 4.60415,2.82077 l 7.97995,7.97993 z"
        fill="#FFF1C0"

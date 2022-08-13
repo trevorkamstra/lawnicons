@@ -25,11 +25,11 @@
      showgrid="true"
      inkscape:lockguides="true"
      inkscape:zoom="16"
-     inkscape:cx="-8.3125"
+     inkscape:cx="-13.75"
      inkscape:cy="14.6875"
      inkscape:window-width="3072"
      inkscape:window-height="1694"
-     inkscape:window-x="-11"
+     inkscape:window-x="1499"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8"
@@ -42,7 +42,7 @@
   </sodipodi:namedview>
   <g
      id="g1720"
-     transform="matrix(1.077221,0,0,1.077221,-0.92665208,-0.926652)">
+     transform="matrix(1.2926652,0,0,1.2926652,-3.5119825,-3.5119824)">
     <path
        id="path4"
        d="m 12.000003,2.716854 c -0.432459,0 -0.865058,0.2130341 -1.111263,0.6419334 L 3.1719647,16.80254 c -0.4903436,0.854144 0.1263648,1.918042 1.1112623,1.918042 H 4.711829 L 12.000003,5.9691871 19.288177,18.720582 h 0.428601 c 0.984918,0 1.601587,-1.063898 1.111263,-1.918042 L 13.111265,3.3587874 C 12.865061,2.9298881 12.432462,2.716854 12.000003,2.716854 Z m 0,8.255922 -4.4275949,7.747806 h 1.0123542 l 3.4152407,-1.332351 3.41524,1.332351 h 1.010415 z"

@@ -25,17 +25,17 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="39.333333"
-     inkscape:cx="18.508475"
+     inkscape:cx="16.29661"
      inkscape:cy="18.584746"
      inkscape:window-width="3072"
      inkscape:window-height="1694"
-     inkscape:window-x="-11"
+     inkscape:window-x="1499"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6" />
   <g
      id="g294"
-     transform="scale(0.125)">
+     transform="matrix(0.15,0,0,0.15,-2.4,-2.4)">
     <path
        d="M 138,140 V 52 c 0,-8.8366 -7.163,-16 -16,-16 H 58.1596 L 22,72.1596 V 140 c 0,8.837 7.1634,16 16,16 h 84 c 8.837,0 16,-7.163 16,-16 z"
        stroke="#000000"
