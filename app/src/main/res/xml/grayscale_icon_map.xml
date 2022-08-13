@@ -16,8 +16,7 @@
     <icon drawable="@drawable/dialer" package="com.google.android.dialer" name="Phone" />
     <icon drawable="@drawable/digital_wellbeing" package="com.google.android.apps.wellbeing" name="Digital Wellbeing" />
     <icon drawable="@drawable/duckduckgo" package="com.duckduckgo.mobile.android" name="DuckDuckGo" />
-    <icon drawable="@drawable/files" package="com.android.documentsui" name="Files" />
-    <icon drawable="@drawable/files" package="com.google.android.documentsui" name="Files" />
+    <icon drawable="@drawable/files" package="me.zhanghai.android.files" name="Files" />
     <icon drawable="@drawable/files_by_google" package="com.google.android.apps.nbu.files" name="Files by Google" />
     <icon drawable="@drawable/find_my_device" package="com.google.android.apps.adm" name="Find My Device" />
     <icon drawable="@drawable/flipboard" package="flipboard.app" name="Flipboard" />
