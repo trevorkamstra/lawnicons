@@ -7,11 +7,11 @@
       android:pathData="m14,2l4,0l0,20l-4,-3z"
       android:fillColor="#000000"/>
   <path
-      android:pathData="m10,2l-4,0L13.8285,21.5712C15.879,21.7092 18,22 18,22Z"
+      android:pathData="m10,2l-4,0L13.828,21.571C15.879,21.709 18,22 18,22Z"
       android:fillColor="#000000"
       android:fillType="evenOdd"/>
   <path
-      android:pathData="m10,2l-4,0l0,20c0,0 2.0045,-0.2748 4,-0.4169z"
+      android:pathData="m10,2l-4,0l0,20c0,0 2.004,-0.275 4,-0.417z"
       android:fillColor="#000000"
       android:fillType="evenOdd"/>
 </vector>

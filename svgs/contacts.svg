@@ -7,7 +7,7 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="contacts.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -30,7 +30,8 @@
        apply_no_radius="true"
        apply_with_radius="true"
        only_selected="true"
-       hide_knots="false" />
+       hide_knots="false"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,1,1,0,1,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,1,1,0,1,0,1" />
   </defs>
   <sodipodi:namedview
      id="namedview10"
@@ -42,31 +43,36 @@
      inkscape:pagecheckerboard="true"
      showgrid="true"
      inkscape:zoom="16"
-     inkscape:cx="1.09375"
+     inkscape:cx="-4.375"
      inkscape:cy="11.9375"
-     inkscape:window-width="2560"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-width="3072"
+     inkscape:window-height="1694"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8">
+     inkscape:current-layer="svg8"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid909"
        empspacing="1" />
   </sodipodi:namedview>
-  <circle
-     cx="12"
-     cy="5.7894735"
-     r="3.7894738"
-     fill="#000000"
-     id="circle4"
-     style="stroke-width:0.947368" />
-  <path
-     d="m 12,11.473684 c -3.0199849,0 -5.7649338,1.079415 -7.8007321,2.84037 -0.4175562,0.361184 -0.7255837,1.135345 -0.7255837,1.68763 V 18 a 2,2 45 0 0 2,2 H 18.526316 a 2,2 135 0 0 2,-2 v -1.998316 c 0,-0.552285 -0.308025,-1.326448 -0.72558,-1.687634 C 17.764956,12.553097 15.019999,11.473684 12,11.473684 Z"
-     fill="#000000"
-     id="path6"
-     inkscape:path-effect="#path-effect1010"
-     inkscape:original-d="m 12,11.473684 c -3.3954442,0 -6.4432137,1.364495 -8.5263158,3.528 V 20 H 20.526316 V 15.001684 C 18.443242,12.838179 15.395463,11.473684 12,11.473684 Z"
-     style="stroke-width:0.947368" />
+  <g
+     id="g2019">
+    <circle
+       cx="12"
+       cy="6.210526"
+       r="4.2105265"
+       fill="#000000"
+       id="circle4"
+       style="stroke-width:1.05263" />
+    <path
+       d="m 11.999999,12.526315 c -3.3971088,0 -6.481004,1.229251 -8.7511852,3.229034 -0.4143078,0.36496 -0.7224982,1.138681 -0.7224982,1.690966 V 20 a 2,2 45 0 0 2,2 H 19.473684 a 2,2 135 0 0 2,-2 v -2.553685 c 0,-0.552285 -0.308188,-1.326008 -0.722495,-1.69097 -2.27016,-1.999781 -5.354064,-3.22903 -8.75119,-3.22903 z"
+       fill="#000000"
+       id="path6"
+       inkscape:path-effect="#path-effect1010"
+       inkscape:original-d="m 11.999999,12.526315 c -3.772715,0 -7.1591255,1.516106 -9.4736834,3.92 V 22 H 21.473684 v -5.553685 c -2.314527,-2.403894 -5.700948,-3.92 -9.473685,-3.92 z"
+       style="stroke-width:1.05263" />
+  </g>
 </svg>

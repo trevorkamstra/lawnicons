@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="flipboard.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:object-nodes="false"
+     inkscape:showpageshadow="false"
+     inkscape:snap-page="true"
+     units="px"
+     inkscape:zoom="45.254834"
+     inkscape:cx="6.8059028"
+     inkscape:cy="13.457126"
+     inkscape:window-width="3072"
+     inkscape:window-height="1694"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid459" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     id="g8"
+     transform="matrix(0.02040816,0,0,0.02040816,1.795818,1.79592)">
+    <g
+       transform="matrix(0.1,0,0,-0.1,0,250)"
+       id="g6">
+      <path
+         d="m 100,-2500 v -4900 h 1632 1628.1 v 1628.1 1632 l 1628.1,11.9 1632,7.9 7.9,1632 11.9,1628.1 1632,11.9 1628.1,7.9 V 779.8 2400 H 5000 100 Z"
+         id="path4" />
+    </g>
+  </g>
+</svg>

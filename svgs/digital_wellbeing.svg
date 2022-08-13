@@ -1,6 +1,59 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="12" cy="5.5" r="3.5" fill="#FFF1C0"/>
-<path d="M11.3282 11.3837L6.37752 16.3344L6.02447 15.9807C4.65851 14.6126 4.65851 12.395 6.02447 11.0268C7.35861 9.6905 9.50246 9.65852 10.8754 10.9308L11.3282 11.3837Z" fill="#FFF1C0"/>
-<path d="M12.7432 11.3844L17.6927 16.3339L18.0453 15.9807C19.4112 14.6126 19.4112 12.3949 18.0452 11.0268C16.7204 9.69997 14.5974 9.65905 13.2235 10.9041L12.7432 11.3844Z" fill="#FFF1C0"/>
-<path d="M7.79059 17.7497L12.0353 13.505L16.2796 17.7493L12.0349 22.0009L7.79059 17.7497Z" fill="#FFF1C0"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg3171"
+   sodipodi:docname="digital_wellbeing.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3175" />
+  <sodipodi:namedview
+     id="namedview3173"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="55.625733"
+     inkscape:cx="6.4358702"
+     inkscape:cy="9.8156009"
+     inkscape:window-width="3072"
+     inkscape:window-height="1694"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3171">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3657"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <g
+     id="g3661"
+     transform="matrix(0.12658248,0,0,0.12658248,-0.15192969,-0.02531987)">
+    <circle
+       cx="96"
+       cy="44"
+       r="22"
+       stroke="#000000"
+       stroke-width="12"
+       id="circle3167" />
+    <path
+       d="M 107.5,90.5 96,102 84.5,90.5 c -9.1127,-9.1127 -23.8873,-9.1127 -33,0 -9.1127,9.1127 -9.1127,23.887 0,33 L 96,168 140.5,123.5 c 9.113,-9.113 9.113,-23.8873 0,-33 -9.113,-9.1127 -23.887,-9.1127 -33,0 z"
+       stroke="#000000"
+       stroke-width="12"
+       stroke-linejoin="round"
+       id="path3169" />
+  </g>
 </svg>

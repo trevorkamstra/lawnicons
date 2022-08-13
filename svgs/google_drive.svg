@@ -1,5 +1,61 @@
-<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M96 30H80.8709C76.6145 30 72.6765 32.2548 70.5219 35.9256L23.6049 115.858C21.3826 119.644 21.4052 124.342 23.664 128.107L40.5044 156.174C42.673 159.788 46.5791 162 50.7943 162H96" stroke="black" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M96 30H111.129C115.386 30 119.323 32.2548 121.478 35.9256L168.395 115.858C170.617 119.644 170.595 124.342 168.336 128.107L151.496 156.174C149.327 159.788 145.421 162 141.206 162H96" stroke="black" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M59 127L96 65L133 127H96H59Z" stroke="black" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg7595"
+   sodipodi:docname="google_drive.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7599" />
+  <sodipodi:namedview
+     id="namedview7597"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="39.333333"
+     inkscape:cx="10.90678"
+     inkscape:cy="12.940678"
+     inkscape:window-width="3072"
+     inkscape:window-height="1694"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7595" />
+  <g
+     id="g7721"
+     transform="matrix(0.12493441,0,0,0.12493441,0.00630186,0.00629664)">
+    <path
+       d="M 96,30 H 80.8709 c -4.2564,0 -8.1944,2.2548 -10.349,5.9256 l -46.917,79.9324 c -2.2223,3.786 -2.1997,8.484 0.0591,12.249 l 16.8404,28.067 C 42.673,159.788 46.5791,162 50.7943,162 H 96"
+       stroke="#000000"
+       stroke-width="12"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path7589" />
+    <path
+       d="m 96,30 h 15.129 c 4.257,0 8.194,2.2548 10.349,5.9256 l 46.917,79.9324 c 2.222,3.786 2.2,8.484 -0.059,12.249 l -16.84,28.067 c -2.169,3.614 -6.075,5.826 -10.29,5.826 H 96"
+       stroke="#000000"
+       stroke-width="12"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path7591" />
+    <path
+       d="m 59,127 37,-62 37,62 H 96 Z"
+       stroke="#000000"
+       stroke-width="12"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path7593" />
+  </g>
 </svg>

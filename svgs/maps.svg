@@ -1,3 +1,37 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <path d="M12,2.19705A6.96587,6.96587,0,0,0,5.03443,9.16313c0,2.21277.57546,3.82256,2.78773,6.51971a21.83629,21.83629,0,0,1,2.68614,3.784c.80215,1.6263.70758,2.73017,1.4917,2.73017s.68955-1.10387,1.4917-2.73017a21.83629,21.83629,0,0,1,2.68614-3.784c2.21227-2.69715,2.78773-4.30694,2.78773-6.51971A6.96587,6.96587,0,0,0,12,2.19705Zm0,9.6117a2.65187,2.65187,0,1,1,2.65212-2.65212A2.65219,2.65219,0,0,1,12,11.80875Z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="maps.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1540" />
+  <sodipodi:namedview
+     id="namedview1538"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="2.9491525"
+     inkscape:cy="12"
+     inkscape:window-width="3072"
+     inkscape:window-height="1694"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <path
+     d="M 12,2.00002 A 6.96587,6.96587 0 0 0 5.03443,8.9661 c 0,2.21277 0.57546,3.82256 2.78773,6.51971 a 21.83629,21.83629 0 0 1 2.68614,3.784 c 0.80215,1.6263 0.70758,2.73017 1.4917,2.73017 0.78412,0 0.68955,-1.10387 1.4917,-2.73017 a 21.83629,21.83629 0 0 1 2.68614,-3.784 c 2.21227,-2.69715 2.78773,-4.30694 2.78773,-6.51971 A 6.96587,6.96587 0 0 0 12,2.00002 Z m 0,9.6117 A 2.65187,2.65187 0 1 1 14.65212,8.9596 2.65219,2.65219 0 0 1 12,11.61172 Z"
+     id="path1535" />
 </svg>

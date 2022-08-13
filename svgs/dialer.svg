@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg2039"
+   sodipodi:docname="dialer.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2043" />
+  <sodipodi:namedview
+     id="namedview2041"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="55.625733"
+     inkscape:cx="8.2875312"
+     inkscape:cy="11.41558"
+     inkscape:window-width="3072"
+     inkscape:window-height="1694"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2039">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2162"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <path
+     d="m 4.6665028,2.7536293 c -1.109924,0 -2.021153,0.902424 -1.902732,2.006005 0.46484,4.332128 2.417864,8.2188967 5.337736,11.1388437 2.9198842,2.919822 6.8064632,4.87286 11.1385922,5.337724 1.103568,0.118446 2.006293,-0.792821 2.006293,-1.902669 v -2.021744 c 0,-0.887401 -0.582055,-1.670048 -1.432152,-1.925028 l -2.442519,-0.481319 c -0.708038,-0.212399 -1.475613,-0.01884 -1.998382,0.503931 l -1.215985,1.215982 C 12.701588,15.879888 11.378512,14.912352 10.233117,13.766956 9.0877218,12.621561 8.1200338,11.298434 7.3746158,9.8427313 l 1.216073,-1.216073 c 0.522782,-0.522782 0.71634,-1.290494 0.503891,-1.998644 l -0.48157,-2.442195 c -0.255017,-0.850059 -1.037312,-1.43219 -1.924802,-1.43219 z"
+     stroke="#000000"
+     stroke-width="1.50726"
+     stroke-linejoin="round"
+     id="path2037"
+     style="fill:#000000;fill-opacity:1" />
+</svg>
