@@ -44,6 +44,7 @@
     <icon drawable="@drawable/google_pay" package="com.google.android.apps.walletnfcrel" name="Google Pay" />
     <icon drawable="@drawable/google_photos" package="com.google.android.apps.photos" name="Google Photos" />
     <icon drawable="@drawable/google_play_store" package="com.android.vending" name="Google Play Store" />
+    <icon drawable="@drawable/google_meet" package="com.google.android.apps.tachyon" name="Google Meet" />
     <icon drawable="@drawable/google_podcasts" package="com.google.android.apps.podcasts" name="Google Podcasts" />
     <icon drawable="@drawable/grewards" package="com.google.android.apps.paidtasks" name="Google Rewards" />
     <icon drawable="@drawable/magisk" package="com.topjohnwu.magisk" name="Magisk" />
@@ -62,4 +63,6 @@
     <icon drawable="@drawable/twitter" package="com.twitter.android" name="Twitter" />
     <icon drawable="@drawable/youtube" package="com.google.android.youtube" name="YouTube" />
     <icon drawable="@drawable/youtube_music" package="com.google.android.apps.youtube.music" name="YouTube Music" />
+    <icon drawable="@drawable/psremote" package="com.playstation.remoteplay" name="PS Remote" />
+    <icon drawable="@drawable/wrench" package="com.kieronquinn.app.pixellaunchermods" name="Pixel Launcher Mods" />
 </icons>
